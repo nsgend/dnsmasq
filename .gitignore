@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 src/*.o
 src/*.mo
 src/dnsmasq.pot
@@ -12,22 +11,3 @@ debian/files
 debian/substvars
 debian/utils-substvars
 debian/utils/
-=======
-# Object files
-*.o
-
-# Libraries
-*.lib
-*.a
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
->>>>>>> Initial commit
